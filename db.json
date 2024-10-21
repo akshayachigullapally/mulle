@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "e04a",
+      "username": "akshaya",
+      "password": "akshaya",
+      "email": "chigullapallianil@gmail.com",
+      "dob": "2024-09-02"
+    },
+    {
+      "id": "df73",
+      "username": "raja",
+      "password": "raja",
+      "email": "rajachanda1205@gmail.com",
+      "dob": "2005-11-07"
+    },
+    {
+      "id": "dbbb",
+      "username": "rishitha",
+      "password": "rishitha",
+      "email": "chigullapallianil@gmail.com",
+      "dob": "2024-09-30"
+    }
+  ]
+}
